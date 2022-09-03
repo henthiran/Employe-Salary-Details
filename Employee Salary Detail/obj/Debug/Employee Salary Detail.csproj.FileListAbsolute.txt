@@ -1,0 +1,21 @@
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\bin\Debug\Employee Salary Detail.exe.config
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\bin\Debug\Employee Salary Detail.exe
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\bin\Debug\Employee Salary Detail.pdb
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.csproj.SuggestedBindingRedirects.cache
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee_Salary_Detail.Form1.resources
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee_Salary_Detail.Properties.Resources.resources
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.csproj.GenerateResource.cache
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.csproj.CoreCompileInputs.cache
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.exe
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.pdb
+E:\NVQ 5\Code2022\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.csproj.AssemblyReference.cache
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\bin\Debug\Employee Salary Detail.exe.config
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\bin\Debug\Employee Salary Detail.exe
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\bin\Debug\Employee Salary Detail.pdb
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.csproj.AssemblyReference.cache
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee_Salary_Detail.Form1.resources
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee_Salary_Detail.Properties.Resources.resources
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.csproj.GenerateResource.cache
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.csproj.CoreCompileInputs.cache
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.exe
+C:\Users\Henthiran\Desktop\Employee Salary Detail\Employee Salary Detail\obj\Debug\Employee Salary Detail.pdb

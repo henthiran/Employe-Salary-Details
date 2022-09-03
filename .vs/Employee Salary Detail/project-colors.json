@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9222ab9a-b7eb-46dc-b239-0aad83272f95": {
+      "ProjectGuid": "9222ab9a-b7eb-46dc-b239-0aad83272f95",
+      "DisplayName": "Employee Salary Detail",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
